@@ -30,4 +30,6 @@
     - `include` 지시어
     - 스크립틀릿
 
-2. 
+2. JSP 프로그래밍 : 계산기 구현
+    - HTML 화면을 통한 사용자 입력 : `calcForm2.html`
+    - 연산 결과를 JSP로 전달, 결과 출력 : `calc.jsp`
