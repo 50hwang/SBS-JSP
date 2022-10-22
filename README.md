@@ -21,3 +21,13 @@
     - `calcForm.html`
        - Servlet으로 실행
     - `CalcServlet.java`
+
+## 221022 수업 3일차
+
+1. JSP 기초 종합 예제 `jspTotal.jsp`
+    - 주석
+    - 선언과 참조
+    - `include` 지시어
+    - 스크립틀릿
+
+2. 
