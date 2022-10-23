@@ -54,10 +54,10 @@
 	</c:choose>
 	
 	<h3>forTokens</h3>
-	<c:forTokens var="city" items="Seoul|Tokyo|New York|Toronto" delims="|" varStatus="i">
+	<c:forTokens var="city" items="Seoul/Tokyo/New York/Toronto" delims="/" varStatus="i">
 		<c:if test="${i.first}">도시 목록 : </c:if>
 		${city}
-		<c:if test="${!i.last}"></c:if>>
+		<c:if test="${!i.last}">,</c:if>
 	</c:forTokens>
 	<hr>
 	
