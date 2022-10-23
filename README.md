@@ -38,3 +38,12 @@
     - HTML 화면을 통한 사용자 입력 : `calcForm3.html`
     - Java Bean 객체 : `Calculator.java`
     - 연산 결과를 JSP로 전달, 결과 출력 : `calcUseBean.jsp`
+
+## 221023 수업 4일차
+
+1. 커스텀 태그와 EL, JSTL 종합 예제 :  `jstlExam.jsp`
+
+   - `JSTL` 라이브러리 설치 및 연동
+   - `JSTL`과 `EL`을 활용한 화면 구성 활용
+
+2. 
